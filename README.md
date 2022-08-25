@@ -1,2 +1,2 @@
-# Simple-Blockchain-with-Smart-contract
-1 node python blockchain
+# Simple-Blockchain
+A simple blockchain for educational purposes
